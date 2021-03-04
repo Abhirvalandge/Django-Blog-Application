@@ -1,0 +1,45 @@
+.content{
+    width: 50%;
+    float: left;
+    background-color: white;
+    padding: 0 0 0 30px;
+    margin-left: 40px;
+    height: 100%;
+}
+.sidebar{
+    width: 40%;
+    float: right;
+    background-color: lavender;
+    padding: 0 0 0 30px;
+    margin-right: 40px;
+    height: 100%;
+}
+h1{
+    text-align: center;
+    border-bottom: 1px solid;
+    padding-bottom: 10px;
+}
+body{
+    background-color: white;
+}
+#date{
+    font-size: 12px;
+    font-style: italic;
+    color: darkblue;
+}
+#id_name
+{
+    margin-left: 10%;
+}
+#id_email{
+    margin-left: 10%;
+}
+#id_to{
+    margin-left: 10%;
+}
+#id_comments{
+    margin-left: 10%;
+}
+form{
+    font-weight: bold;
+}
